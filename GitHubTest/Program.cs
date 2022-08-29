@@ -1,3 +1,3 @@
 ﻿Console.WriteLine("Ange ditt namn.");
 string namn = Console.ReadLine();
-Console.WriteLine($"{namn}");
+Console.WriteLine($"Ditt namn är {namn}");
