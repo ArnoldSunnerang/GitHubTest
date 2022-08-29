@@ -1,3 +1,3 @@
-﻿Console.WriteLine("Ange ditt namn.");
+﻿Console.WriteLine("Ange inte ditt namn.");
 string namn = Console.ReadLine();
-Console.WriteLine($"Ditt namn är {namn}");
+Console.WriteLine($"Ditt namn är inte {namn}");
